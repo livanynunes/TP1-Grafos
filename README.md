@@ -1,2 +1,2 @@
-# TP1-Grafos
-O trabalho consiste em implementar algoritmos para o prolema do caminho mínimo em grafos. Os algoritmos desenvolidos são:  Dijkstra, Bellman-Ford e FloydWarshall.
+# How it works
+The project consists of implementing algorithms for the problem of the minimum path in graphs. The algorithms developed are: Dijkstra, Bellman-Ford and FloydWarshall. 
